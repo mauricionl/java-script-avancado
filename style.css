@@ -1,0 +1,17 @@
+.content-grid {
+    max-width: 960px;
+  }
+
+  .content{
+      padding: 20px;
+  }
+
+  .pull-right{
+      float: right;
+  }
+  .full-width-table{
+    width:100%;
+}
+table td, table th{
+    text-align: center !important;
+}
